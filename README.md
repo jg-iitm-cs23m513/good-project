@@ -1,2 +1,2 @@
-# test-good-project
+# Test-Good-Project
 This is a Test Good Project
